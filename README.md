@@ -1,3 +1,3 @@
 # Current Project
 
-[Current Project: Air Quality Detector](https://github.com/ConnorO611/Air-Quality-Detector)
+[Current Project: ESP32 Chatter Device](https://github.com/ConnorO611/ESP32-Chatter-Device)
